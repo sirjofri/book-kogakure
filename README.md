@@ -15,11 +15,11 @@ Ein Buch von [Stefan Imhoff]. Mit Übersetzungen einiger Texte von *Peter Carlss
 
 Dieses Buch und die dazugehörende Website [kogakure.de] gibt es nur, weil vor fast 18 Jahren zwei Dinge zur gleichen Zeit aufeinander trafen: Mein Interesse für Ninjutsu und mein Interesse für Webdesign.
 
-Als ich in den 90ern zum ersten Mal mit Ninjutsu in Kontakt kam, war Information sehr schwer zu finden. Dōjō gab es nur sehr spärlich im deutschen Raum, keines davon in Reichweite für mich. Bücher gab es kaum, und die wenigen Bücher, die es gab waren sehr schwer zu beschaffen (ich musste im Voraus bezahlen, ohne sie je gesehen zu haben und wochen- oder gar monatelang auf die Lieferung warten). Ich habe damals jede Information, die mir in die Hände fiel gesammelt und mir Notizen gemacht. Diese Notizensammlung wurde das, was heute die Website [kogakure.de] ist.
+Als ich in den 90ern zum ersten Mal mit Ninjutsu in Kontakt kam, war Information sehr schwer zu finden. Dōjō gab es nur sehr spärlich im deutschen Raum, keines davon in Reichweite für mich. Bücher gab es kaum, und die wenigen Bücher, die es gab, waren sehr schwer zu beschaffen (ich musste im Voraus bezahlen, ohne sie je gesehen zu haben, und wochen- oder gar monatelang auf die Lieferung warten). Ich habe damals jede Information, die mir in die Hände fiel gesammelt und mir Notizen gemacht. Diese Notizensammlung wurde das, was heute die Website [kogakure.de] ist.
 
 Für dieses Buch habe ich den Inhalt der Website noch einmal komplett überarbeitet, Fehler korrigiert, Fotos und Grafiken (wenn möglich) ausgetauscht und wo immer möglich auf Vektorgrafiken umgestellt.
 
-Ich verwende die Hepburn-Schreibweise für japanische Worte, mit Ausnahme einiger weniger Begriffe, die so alltäglich sind (z. B. Ninja, Ninjutsu oder Samurai). Wenn ein Begriff unklar ist, findest du mit Sicherheit einen Eintrag im Glossar, der näher beschreibt, um was es sich handelt.
+Ich verwende die Hepburn-Schreibweise für japanische Worte, mit Ausnahme einiger weniger Begriffe, die so alltäglich sind (z.&nbsp;B. Ninja, Ninjutsu oder Samurai). Wenn ein Begriff unklar ist, findest du mit Sicherheit einen Eintrag im Glossar, der näher beschreibt, um was es sich handelt.
 
 ----
 
@@ -47,7 +47,7 @@ In diesem Kapitel beschreibe ich die geistigen Kräfte der Ninja, philosophische
 
 ### Strategie und Taktik
 
-Die Zahlreichen Strategien der Spionage, Kriegführung, Fluchttechniken, Techniken des Versteckens und Verkleidens werden in diesem Kapitel näher beleuchtet.
+Die zahlreichen Strategien der Spionage, Kriegführung, Fluchttechniken, Techniken des Versteckens und Verkleidens werden in diesem Kapitel näher beleuchtet.
 
 ### Das Erbe der Ninja
 
@@ -59,7 +59,7 @@ In diesem Kapitel werden zum Abschluss noch ein paar Regeln und Philosophien bes
 
 ### Anhänge
 
-Die Anhänge enthalten eine Chronologie der Website kogakure.de, von ihrer Entstehung bis in die Gegenward, inklusive Screenshots des Designs alter Versionen. Außerdem ein Abschnitt mit Buch- und Film-Empfehlugen und das Glossar, was über 500 Worte aus dem Bereich von Ninjutsu und Kampfkunst enthält.
+Die Anhänge enthalten eine Chronologie der Website kogakure.de, von ihrer Entstehung bis in die Gegenwart, inklusive Screenshots des Designs alter Versionen. Außerdem ein Abschnitt mit Buch- und Film-Empfehlungen und das Glossar, was über 500 Worte aus dem Bereich von Ninjutsu und Kampfkunst enthält.
 
 ----
 
@@ -75,8 +75,8 @@ Die Anhänge enthalten eine Chronologie der Website kogakure.de, von ihrer Entst
 
 - Hast du einen Fehler entdeckt? Grammatik, Rechtschreibung, Inhaltlich falsch?
 - Möchtest du Inhalte beisteuern? Glaubst du, dass ein Thema auf Website und Buch fehlt? Schlag es vor, vielleicht gefällt es mir.
-- Bist du ein Illustrator, Künstler oder ähnliches? Hast du Interesse, ältere Grafiken (z. B. Waffen oder Techniken) durch Illustrationen zu ersetzen?
-- Beherrschst du eine andere Sprache? Hast du interesse Interesse, eine Übersetzung in eine andere Sprache zu erstellen?
+- Bist du ein Illustrator, Künstler oder ähnliches? Hast du Interesse, ältere Grafiken (z.&thinsp;B. Waffen oder Techniken) durch Illustrationen zu ersetzen?
+- Beherrschst du eine andere Sprache? Hast du Interesse, eine Übersetzung in eine andere Sprache zu erstellen?
 
 [https://github.com/kogakure/book-kogakure][github]
 
